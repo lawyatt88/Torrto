@@ -1,2 +1,2 @@
 # Torrto
-[[https://github.com/lawyatt88/Torrto/blob/master/screenshots/Torrto-Blogs.png|alt=screenshot-blog]]
+Checkout the wiki as a visual aid: https://github.com/lawyatt88/Torrto/wiki
